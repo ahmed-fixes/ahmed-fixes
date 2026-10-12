@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.com/api?type=waving&color=335c67&height=200&section=header&text=Ahmed%20Amir&fontSize=60&animation=twinkling&fontColor=ffffff" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=335C67&center=true&vCenter=true&width=600&lines=CS+Student+%7C+AI+Intern;Building+ML-powered+solutions;Python+%7C+C+%7C+C%2B%2B+%7C+HTML+%7C+CSS;Turning+data+into+decisions" alt="Typing SVG" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ahmed-fixes&label=Profile%20Views&color=335c67&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ahmed-fixes?label=Followers&style=flat&color=335c67" alt="Followers"/>
-
-</div>
 
 ---
 
